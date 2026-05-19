@@ -1,2 +1,7 @@
-# demo-inmobiliaria-pablo-a-nuble
-Demo web para Inmobiliaria Pablo A Nuble — diseñada por eterlab.
+# Inmobiliaria Pablo A Nuble
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
